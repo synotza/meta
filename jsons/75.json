@@ -1,0 +1,63 @@
+{
+  "name": "Lilo and Kilo #75",
+  "description": "Returning of Phoenix. May the Force be with you!",
+  "image": "https://raw.githubusercontent.com/synotza/meta/main/images/75.png",
+  "dna": "5179dbd4b7274dd1c32784ba3b8684289e892cd7",
+  "edition": 75,
+  "date": 1655665510209,
+  "attributes": [
+    {
+      "trait_type": "Background_Color",
+      "value": "BackColour"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth7"
+    },
+    {
+      "trait_type": "Background_around",
+      "value": "NothingBackAr"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Blush4"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair6"
+    },
+    {
+      "trait_type": "Bow_Hair|Ears_Hair",
+      "value": "BowHair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes6"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clothes3"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "NothingHand"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Tattoo2"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose6"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "Eyebrow8"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
